@@ -6,7 +6,7 @@ from .models import QuizRoom
 from .serializers import QuizRoomSerializer
 from mcqs.models import MCQ  # Assuming MCQ model is defined in mcqs app
 from quizrooms import models
-DEFAULT_TOPICS = ['Science', 'CS', 'Math', 'General Knowledge', 'World History']
+DEFAULT_TOPICS = ['Science', 'CS', 'Math', 'General Knowledge', 'History']
 
 class CreateQuizRoomView(APIView):
     permission_classes = [IsAuthenticated]
