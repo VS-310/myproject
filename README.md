@@ -3,7 +3,7 @@
 This is the project 1V1 MCQ-Battle. The repository contains code and resources for the project.
 
 ## Frontend Part
-- [https://github.com/VS-310/myprojectf](https://github.com/VS-310/myprojectf)
+- [https://github.com/VS-310/myprojectfront](https://github.com/VS-310/myprojectfront)
   
 ## Project Structure
 
